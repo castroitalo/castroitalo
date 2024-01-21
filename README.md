@@ -4,6 +4,6 @@ Olá, meu nome é Italo Castro
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=css,docker,git,github,html,js,jquery,linux,mysql,php,py,sass,vscode)https://skillicons.dev/icons?i=css,docker,git,github,html,js,jquery,linux,mysql,php,py,sass,vscode" />
+    <img src="https://skillicons.dev/icons?i=css,docker,git,github,html,js,jquery,linux,mysql,php,py,sass,vscode" />
   </a>
 </p>
