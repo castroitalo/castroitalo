@@ -2,4 +2,8 @@ Olá, meu nome é Italo Castro
 
  - Sou programador profissional desde 2020 mas estudo desde os 14 anos de idade.
 
-[![My Skills](https://skillicons.dev/icons?i=css,docker,git,github,html,js,jquery,linux,mysql,php,py,sass,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=css,docker,git,github,html,js,jquery,linux,mysql,php,py,sass,vscode)https://skillicons.dev/icons?i=css,docker,git,github,html,js,jquery,linux,mysql,php,py,sass,vscode" />
+  </a>
+</p>
